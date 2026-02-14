@@ -1,0 +1,39 @@
+{
+  "keywords": [
+    "삼성전자",
+    "SK하이닉스",
+    "하이닉스",
+    "D램",
+    "DRAM",
+    "낸드",
+    "NAND",
+    "HBM",
+    "HBM3",
+    "HBM3E",
+    "메모리 반도체",
+    "메모리 가격",
+    "반도체 업황",
+    "반도체 수요",
+    "AI 반도체",
+    "데이터센터",
+    "감산",
+    "증설",
+    "CAPEX",
+    "설비투자",
+    "재고",
+    "재고 증가",
+    "출하량",
+    "ASP",
+    "가격 인상",
+    "가격 하락"
+  ],
+
+  "rss_feeds": [
+    "https://news.google.com/rss/search?q=삼성전자+반도체&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=SK하이닉스&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=DRAM+price&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=NAND+price&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=HBM+memory&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=memory+semiconductor+outlook&hl=en-US&gl=US&ceid=US:en"
+  ]
+}
