@@ -1,14 +1,23 @@
 {
   "keywords": [
-    "삼성전자",
-    "NVDA",
-    "sk하이닉스",
-    "skhynix",
-    "뉴스"
+    "반도체",
+    "메모리",
+    "HBM",
+    "DDR5",
+    "AI 서버",
+    "CAPEX",
+    "설비투자",
+    "수요",
+    "재고",
+    "가격 상승",
+    "가격 하락"
   ],
   "rss_feeds": [
-    "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
-    "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+    "https://news.google.com/rss/search?q=반도체+업황+메모리+가격&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=HBM+AI+서버+DDR5&hl=ko&gl=KR&ceid=KR:ko",
+    "https://www.trendforce.com/rss",
+    "https://www.semiconductors.org/feed/",
+    "https://www.cnbc.com/id/19854910/device/rss/rss.html"
   ],
   "interval_minutes": 10,
   "quiet_hours_kr": [
