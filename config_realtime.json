@@ -1,0 +1,31 @@
+{
+  "keywords": [
+    "삼성전자 급등",
+    "삼성전자 급락",
+    "SK하이닉스 급등",
+    "SK하이닉스 급락",
+    "삼성전자 실적 발표",
+    "SK하이닉스 실적 발표",
+    "D램 가격 인상",
+    "D램 가격 하락",
+    "NAND 가격 인상",
+    "NAND 가격 하락",
+    "HBM 수주",
+    "HBM 공급",
+    "HBM 계약",
+    "엔비디아 HBM",
+    "AI 서버 수요",
+    "데이터센터 투자",
+    "반도체 감산",
+    "반도체 증설",
+    "재고 증가",
+    "재고 감소"
+  ],
+
+  "rss_feeds": [
+    "https://news.google.com/rss/search?q=삼성전자&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=SK하이닉스&hl=ko&gl=KR&ceid=KR:ko",
+    "https://news.google.com/rss/search?q=HBM+memory&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=DRAM+price&hl=en-US&gl=US&ceid=US:en"
+  ]
+}
